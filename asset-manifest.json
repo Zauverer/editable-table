@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/editable-table/static/css/main.6695d9f4.css",
+    "main.js": "/editable-table/static/js/main.2567b93f.js",
+    "index.html": "/editable-table/index.html",
+    "main.6695d9f4.css.map": "/editable-table/static/css/main.6695d9f4.css.map",
+    "main.2567b93f.js.map": "/editable-table/static/js/main.2567b93f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6695d9f4.css",
+    "static/js/main.2567b93f.js"
+  ]
+}
